@@ -17,7 +17,7 @@ int main()
     mat A(3, 3);
     A = eye<mat>(3, 3);
     A.print();
-    cout << "Hello World!\n";
+    cout << "Testing Armadillo!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
